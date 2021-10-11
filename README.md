@@ -1,2 +1,3 @@
-# Machine_Learning_Clustering
-Implementation Clustering Methods based on hierarchical ascending classification (CAH: SciPy Package); the mobile center method (k-Means: Package ScikitLearn).
+# Machine_Learning_Classification:
+Mission : Introduction to models learned in supervised classification.
+Dataset : Iris dataset 
